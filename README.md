@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hello, my name is Antonio!
+## Welcome to my GitHub profile 👋
+I'm 35 years old, I live in Piracicaba/SP - Brazil. I have a cat and I'm venturing into the world of programming.
+
+:books: I'm currrently learning web development
 
 <!--
 **antoniopolonijr/antoniopolonijr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
