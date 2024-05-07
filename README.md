@@ -3,7 +3,7 @@
 
 👋 Hi, I'm 35 years old, I live in Piracicaba/SP - Brazil. I have a cat and I'm venturing into the world of programming.
 
-:books: I'm currrently learning web development.
+:books: I'm currently learning web development.
 
 :mortar_board: I have a degree in Mechanical Engineering. Most recently I worked as a Search Engine Evaluator. At the moment I am in a career transition.
 
