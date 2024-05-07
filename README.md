@@ -5,7 +5,7 @@
 
 :books: I'm currently learning web development.
 
-:mortar_board: I have a degree in Mechanical Engineering. Most recently I worked as a Search Engine Evaluator. At the moment I am in a career transition.
+:mortar_board: I have a degree in Mechanical Engineering. I have good experience with creating technical drawings and projects using Autodesk AutoCAD and Inventor. Most recently I worked as a Search Engine Evaluator. At the moment I am in a career transition.
 
 :soccer: :coffee: :video_game: I love soccer, coffee and RPG.
 
