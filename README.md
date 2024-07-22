@@ -1,13 +1,14 @@
 # Antonio Poloni
 ## Welcome to my GitHub profile
 
-👋 Hi, I'm 35 years old, I live in Piracicaba/SP - Brazil. I have a cat and I'm venturing into the world of programming.
-
-:books: I'm currently learning web development.
-
-:mortar_board: I have a degree in Mechanical Engineering. I have good experience with creating technical drawings and projects using Autodesk AutoCAD and Inventor. Most recently I worked as a Search Engine Evaluator. At the moment I am in a career transition.
-
+👋 Hi, I'm 36 years old, I live in Piracicaba/SP - Brazil. I have a cat.
 :soccer: :coffee: :video_game: I love soccer, coffee and RPG.
+
+"TODAY I LEARN TO CODE SO I CAN CREATE THE CODE OF TOMORROW!"
+
+:mortar_board: Technology has always been part of my life. Since childhood, I have harbored a passion for games and computers. I hold a degree in Mechanical Engineering, during which I gained experience in creating technical drawings and 3D models using Autodesk AutoCAD and Inventor. My role as a Search Engine Evaluator further deepened my understanding of web page structure and quality.
+
+:books: Currently, I am expanding my skill set in web development through Frontend Masters and freeCodeCamp . I recently completed the Frontend Masters Bootcamp and the Responsive Web Design Certification , two significant steps towards my goal of becoming a web developer.
 
 ## I am learning:
  
@@ -25,7 +26,6 @@
 <div>
 <a href="https://github.com/antoniopolonijr">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniopolonijr&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=antoniopolonijr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 
