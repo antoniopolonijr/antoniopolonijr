@@ -2,6 +2,7 @@
 ## Welcome to my GitHub profile
 
 👋 Hi, I'm 36 years old, I live in Piracicaba/SP - Brazil. I have a cat.
+
 :soccer: :coffee: :video_game: I love soccer, coffee and RPG.
 
 "TODAY I LEARN TO CODE SO I CAN CREATE THE CODE OF TOMORROW!"
