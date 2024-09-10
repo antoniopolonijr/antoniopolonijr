@@ -1,9 +1,9 @@
 # Antonio Poloni
 ## Welcome to my GitHub profile
 
-👋 Hi, I'm 36 years old, I live in Piracicaba/SP - Brazil. I have a cat.
+👋 Hi, I'm 36 years old, I live in Piracicaba/SP - Brazil. 
 
-:soccer: :coffee: :video_game: I love soccer, coffee and RPG.
+:soccer: :coffee: :video_game: I love soccer, coffee, RPG and I have a cat.
 
 "TODAY I LEARN TO CODE SO I CAN CREATE THE CODE OF TOMORROW!"
 
