@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-I'm a 36-year-old developer from Piracicaba/SP, Brazil. I love soccer, RPGs, and I share my coding journey with a loyal cat by my side.
+I'm a 36-year-old developer from Piracicaba/SP, Brazil. I'm passionate about soccer and RPGs, and I share my coding journey with Yoda — my loyal feline sidekick who's always by my side.
 
 > 🧠 *"Today I learn to code so I can create the code of tomorrow."*
 
@@ -43,7 +43,11 @@ I'm currently focused on building solid frontend skills and expanding into full-
 
 ## 🌱 Projects
 
-Check out [**NoCliques**](https://github.com/antoniopolonijr/nocliques) — my soccer team generator app that promotes fair team creation by analyzing players' skills and positions, preventing "cliques" from forming.
+Check out [**NoCliques**](https://github.com/antoniopolonijr/nocliques) — is a team generator app designed to create fair and balanced teams for casual soccer matches. By analyzing players' skills and positions, it ensures fairness and prevents the formation of "cliques".
+
+This project is actively maintained using [GitHub Projects](https://github.com/users/antoniopolonijr/projects/7) to track features, issues, and pull requests.
+
+🔗 [Live Demo](https://nocliques.vercel.app/)
 
 ---
 
