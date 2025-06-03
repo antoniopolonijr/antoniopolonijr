@@ -12,7 +12,7 @@ I'm a 36-year-old developer from Piracicaba/SP, Brazil. I'm passionate about soc
 
 I’m a career switcher with a background in Mechanical Engineering and a growing passion for web development. With a strong foundation in logical thinking and problem-solving, I’m now focused on building modern, accessible, and user-friendly web applications.
 
-Over the past year, I’ve committed to a consistent learning path through platforms like Frontend Masters and freeCodeCamp. I’ve completed the Responsive Web Design Certification and the Frontend Masters Bootcamp, and I'm currently deepening my skills in React, Next.js, and TypeScript.
+Over the past year, I’ve committed to a consistent learning path through platforms like Frontend Masters and freeCodeCamp. I’ve completed the Frontend Masters Bootcamp, the Frontend Masters Beginner Learning Path to Web Development, the freeCodeCamp Responsive Web Design and the freeCodeCamp JavaScript Algorithms and Data Structures. I'm currently deepening my skills in React, Next.js, and TypeScript.
 
 My goal is to become a front-end developer who writes clean, maintainable code and builds inclusive digital experiences. One of my latest projects is NoCliques, a team generator app that creates fair soccer teams by analyzing player skills and positions. I manage the project using GitHub Issues, Pull Requests, and GitHub Projects for full visibility and agile tracking.
 
@@ -27,9 +27,9 @@ I'm always open to collaboration, feedback, and opportunities to grow. Let’s b
 I'm currently focused on building solid frontend skills and expanding into full-stack development. My learning path includes:
 
 - ✅ Frontend Masters Bootcamp (completed)
-- ✅ Frontend Beginner Learning Path to Web Development (completed)
-- ✅ freeCodeCamp Responsive Web Design Certification (completed)
-- ✅ freeCodeCamp JavaScript Algorithms and Data Structures Certification (completed)
+- ✅ Frontend Masters Beginner Learning Path to Web Development (completed)
+- ✅ freeCodeCamp Responsive Web Design (completed)
+- ✅ freeCodeCamp JavaScript Algorithms and Data Structures (completed)
 - 🔄 Ongoing projects using **Next.js**, **React**, and **TypeScript**
 
 ### 🧰 Tech Stack
