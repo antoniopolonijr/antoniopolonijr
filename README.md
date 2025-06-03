@@ -10,11 +10,15 @@ I'm a 36-year-old developer from Piracicaba/SP, Brazil. I'm passionate about soc
 
 ## 🚀 About Me
 
-Technology has always been a part of my life. Since childhood, I’ve been passionate about computers and video games. I hold a degree in Mechanical Engineering, where I developed technical skills in 2D/3D modeling with AutoCAD and Inventor.
+I’m a career switcher with a background in Mechanical Engineering and a growing passion for web development. With a strong foundation in logical thinking and problem-solving, I’m now focused on building modern, accessible, and user-friendly web applications.
 
-My curiosity led me to work as a Search Engine Evaluator, giving me insight into how websites are structured and evaluated for quality.
+Over the past year, I’ve committed to a consistent learning path through platforms like Frontend Masters and freeCodeCamp. I’ve completed the Responsive Web Design Certification and the Frontend Masters Bootcamp, and I'm currently deepening my skills in React, Next.js, and TypeScript.
 
-I committed to transitioning into tech and began studying web development.
+My goal is to become a front-end developer who writes clean, maintainable code and builds inclusive digital experiences. One of my latest projects is NoCliques, a team generator app that creates fair soccer teams by analyzing player skills and positions. I manage the project using GitHub Issues, Pull Requests, and GitHub Projects for full visibility and agile tracking.
+
+I'm always open to collaboration, feedback, and opportunities to grow. Let’s build something great together!
+
+🌍 Languages: Portuguese (native), English (advanced)
 
 ---
 
