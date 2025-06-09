@@ -14,7 +14,7 @@ I’m a career switcher from **Mechanical Engineering**, now focused on **Front-
 
 Over the past year, I’ve committed to a consistent learning path through platforms like Frontend Masters and freeCodeCamp. I’ve completed the Frontend Masters Bootcamp, the Frontend Masters Beginner Learning Path to Web Development, the freeCodeCamp Responsive Web Design and the freeCodeCamp JavaScript Algorithms and Data Structures. I'm currently deepening my skills in React, Next.js, and TypeScript.
 
-My goal is to become a front-end developer who writes clean, maintainable code and builds inclusive digital experiences. One of my latest projects is **NoCliques**, a team generator app that creates fair soccer teams by analyzing player skills and positions. I manage the project using GitHub Issues, Pull Requests, Projects, and a branch-based workflow to ensure clear visibility, agile tracking, and smooth team collaboration.
+My goal is to become a front-end developer who writes clean, maintainable code and builds inclusive digital experiences. One of my latest projects is [**NoCliques**](https://github.com/antoniopolonijr/nocliques), a team generator app that creates fair soccer teams by analyzing player skills and positions. I manage the project using GitHub Issues, Pull Requests, Projects, and a branch-based workflow to ensure clear visibility, agile tracking, and smooth team collaboration.
 
 I'm always open to collaboration, feedback, and opportunities to grow. Let’s build something great together!
 
