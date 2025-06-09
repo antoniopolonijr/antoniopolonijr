@@ -10,7 +10,7 @@ I'm a 36-year-old developer from Piracicaba/SP, Brazil. I'm passionate about soc
 
 ## 🚀 About Me
 
-I’m a career switcher with a background in Mechanical Engineering and a growing passion for web development. With a strong foundation in logical thinking and problem-solving, I’m now focused on building modern, accessible, and user-friendly web applications.
+I’m a career switcher from Mechanical Engineering, now focused on Front-end Development. With a strong foundation in logical thinking and problem-solving, I’m now focused on building modern, accessible, and user-friendly web applications.
 
 Over the past year, I’ve committed to a consistent learning path through platforms like Frontend Masters and freeCodeCamp. I’ve completed the Frontend Masters Bootcamp, the Frontend Masters Beginner Learning Path to Web Development, the freeCodeCamp Responsive Web Design and the freeCodeCamp JavaScript Algorithms and Data Structures. I'm currently deepening my skills in React, Next.js, and TypeScript.
 
