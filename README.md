@@ -12,7 +12,7 @@ I'm a 36-year-old developer from Piracicaba/SP, Brazil. I'm passionate about soc
 
 I’m a career switcher from **Mechanical Engineering**, now focused on **Front-end Development**. With a strong foundation in logical thinking and problem-solving, I’m now focused on building modern, accessible, and user-friendly web applications.
 
-Over the past year, I’ve committed to a consistent learning path through platforms like Frontend Masters and freeCodeCamp. I’ve completed the Frontend Masters Bootcamp, the Frontend Masters Beginner Learning Path to Web Development, the freeCodeCamp Responsive Web Design and the freeCodeCamp JavaScript Algorithms and Data Structures. I'm currently deepening my skills in React, Next.js, Tailwind CSS and TypeScript.
+Over the past year, I’ve committed to a consistent learning path through platforms like Frontend Masters and freeCodeCamp. I’ve completed the Frontend Masters Bootcamp, the Frontend Masters Beginner Learning Path to Web Development, the freeCodeCamp Responsive Web Design and the freeCodeCamp JavaScript Algorithms and Data Structures. I am continuously expanding my expertise through advanced Frontend Masters coursework.
 
 My goal is to become a front-end developer who writes clean, maintainable code and builds inclusive digital experiences. One of my latest projects is [**NoCliques**](https://github.com/antoniopolonijr/nocliques), a team generator app that creates fair soccer teams by analyzing player skills and positions. I manage the project using GitHub Issues, Pull Requests, Projects, and a branch-based workflow to ensure clear visibility, agile tracking, and smooth team collaboration.
 
@@ -24,13 +24,13 @@ I'm always open to collaboration, feedback, and opportunities to grow. Let’s b
 
 ## 📚 What I'm Learning
 
-I'm currently focused on building solid frontend skills and expanding into full-stack development. My learning path includes:
+I'm currently focused on building solid frontend skills. My learning path includes:
 
 - ✅ Frontend Masters Bootcamp (completed)
-- ✅ Frontend Masters Beginner Learning Path to Web Development (completed)
+- ✅ Frontend Masters The Beginner Learning Path to Becoming a Career-Ready Web Developer! (completed)
 - ✅ freeCodeCamp Responsive Web Design (completed)
 - ✅ freeCodeCamp JavaScript Algorithms and Data Structures (completed)
-- 🔄 Ongoing projects using **Next.js**, **React**, and **TypeScript**
+- 🔄 Frontend Masters The Professional Learning Path to Becoming a Senior Web Developer!
 
 ### 🧰 Tech Stack
 
