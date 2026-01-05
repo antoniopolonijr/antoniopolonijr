@@ -30,7 +30,8 @@ I'm currently focused on building solid frontend skills. My learning path includ
 - ✅ Frontend Masters The Beginner Learning Path to Becoming a Career-Ready Web Developer! (completed)
 - ✅ freeCodeCamp Responsive Web Design (completed)
 - ✅ freeCodeCamp JavaScript Algorithms and Data Structures (completed)
-- 🔄 Frontend Masters The Professional Learning Path to Becoming a Senior Web Developer!
+- ✅ Frontend Masters The Professional Learning Path to Becoming a Senior Web Developer! (completed)
+- 🔄 Frontend Masters The React and Next.js Learning Path
 
 ### 🧰 Tech Stack
 
