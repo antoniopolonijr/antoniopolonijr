@@ -1,75 +1,151 @@
-# 👨‍💻 Antonio Poloni
+# Antonio Poloni - Front-End Developer
 
-Welcome to my GitHub profile!
+## About Me
 
-I'm a 36-year-old developer from Piracicaba/SP, Brazil. I'm passionate about soccer and RPGs, and I share my coding journey with Yoda — my loyal feline sidekick who's always by my side.
+I am a front-end developer with hands-on experience and skills forged through personal projects and advanced courses. I'm ready to embark on my first major professional quest to build amazing digital experiences.
 
-> 🧠 *"Today I learn to code so I can create the code of tomorrow."*
-
----
-
-## 🚀 About Me
-
-I’m a career switcher from **Mechanical Engineering**, now focused on **Front-end Development**. With a strong foundation in logical thinking and problem-solving, I’m now focused on building modern, accessible, and user-friendly web applications.
-
-Over the past year, I’ve committed to a consistent learning path through platforms like Frontend Masters and freeCodeCamp. I’ve completed the Frontend Masters Bootcamp, the Frontend Masters Beginner Learning Path to Web Development, the freeCodeCamp Responsive Web Design and the freeCodeCamp JavaScript Algorithms and Data Structures. I am continuously expanding my expertise through advanced Frontend Masters coursework.
-
-My goal is to become a front-end developer who writes clean, maintainable code and builds inclusive digital experiences. One of my latest projects is [**NoCliques**](https://github.com/antoniopolonijr/nocliques), a team generator app that creates fair soccer teams by analyzing player skills and positions. I manage the project using GitHub Issues, Pull Requests, Projects, and a branch-based workflow to ensure clear visibility, agile tracking, and smooth team collaboration.
-
-I'm always open to collaboration, feedback, and opportunities to grow. Let’s build something great together!
-
-🌍 Languages: Portuguese (native), English (advanced)
+Each project is a quest completed. Each course, a new skill unlocked. My evolution as a development adventurer never stops.
 
 ---
 
-## 📚 What I'm Learning
+## Featured Projects
 
-I'm currently focused on building solid frontend skills. My learning path includes:
+### 🎮 **NoCliques**
 
-- ✅ Frontend Masters Bootcamp (completed)
-- ✅ Frontend Masters The Beginner Learning Path to Becoming a Career-Ready Web Developer! (completed)
-- ✅ freeCodeCamp Responsive Web Design (completed)
-- ✅ freeCodeCamp JavaScript Algorithms and Data Structures (completed)
-- ✅ Frontend Masters The Professional Learning Path to Becoming a Senior Web Developer! (completed)
-- 🔄 Frontend Masters The React and Next.js Learning Path
+**Soccer Team Generator by Skill and Position**
 
-### 🧰 Tech Stack
+A team generator app designed to create fair and balanced teams for casual soccer matches. By analyzing players' skills and positions, it ensures fairness and prevents the formation of "cliques".
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+**Technologies:** Next.js, React, TypeScript, Tailwind CSS, Next Intl, GitHub, Accessibility, UI/UX, Git, VSCode
+
+- **[Live Demo](https://nocliques.vercel.app/)** | **[GitHub Repository](https://github.com/antoniopolonijr/nocliques)**
 
 ---
 
-## 🌱 Projects
+### 🍗 **São João Frango Assado**
 
-Check out [**NoCliques**](https://github.com/antoniopolonijr/nocliques) — is a team generator app designed to create fair and balanced teams for casual soccer matches. By analyzing players' skills and positions, it ensures fairness and prevents the formation of "cliques".
+**Food Ordering System**
 
-This project is actively maintained using [GitHub Projects](https://github.com/users/antoniopolonijr/projects/7) to track features, issues, and pull requests.
+A web-based food ordering system developed to streamline the process of selecting, customizing, and purchasing homemade meals. The project offers an intuitive interface for customers and a robust order management experience for the business.
 
-🔗 [Live Demo](https://nocliques.vercel.app/)
+**Technologies:** React, JavaScript, CSS, Vite, Node.js, Vitest, SQLite, Netlify, Render, TanStack, GitHub, Accessibility, Git, UI/UX, VSCode
 
----
-
-## 📫 Contact
-
-Feel free to connect, collaborate, or reach out!
-
-- 💼 **Portfolio**: [antoniopolonijr.github.io](https://antoniopolonijr.github.io/)
-- 💌 **Email**: [antoniopolonijr@gmail.com](mailto:antoniopolonijr@gmail.com)
-- 🧑‍💻 **GitHub**: [@antoniopolonijr](https://github.com/antoniopolonijr)
-- 💼 **LinkedIn**: [@antoniopolonijr](https://www.linkedin.com/in/antonio-br%C3%A1s-poloni-j%C3%BAnior-27148390/)
-- 📸 **Instagram**: [@antoniopoloni](https://instagram.com/antoniopoloni)
+- **[Live Demo](https://sao-joao-frango-assado.netlify.app/)** | **[GitHub Repository](https://github.com/antoniopolonijr/sao-joao-frango-assado)**
 
 ---
 
-## 📊 GitHub Stats
+## 🎓 Professional Development
 
-<div>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniopolonijr&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+I have completed extensive training through **Frontend Masters** and **freeCodeCamp**, focusing on modern web development practices and advanced JavaScript concepts.
+
+### Core Learning Paths Completed
+
+#### React & Next.js Ecosystem
+
+- React & Next.js Learning Path (Frontend Masters)
+- React Performance, v2 (Steve Kinney)
+- State Management at Scale in React & Next.js (David Khourshid)
+- React and TypeScript, v3 (Steve Kinney)
+- Next.js Fundamentals, v4 (Scott Moss)
+- Intermediate React, v6 (Brian Holt)
+- Complete Intro to React, v9 (Brian Holt)
+
+#### TypeScript & JavaScript Mastery
+
+- TypeScript: From First Steps to Professional (Anjana Vakil)
+- TypeScript 5+ Fundamentals, v4 (Mike North)
+- React and TypeScript, v3 (Steve Kinney)
+- Deep JavaScript Foundations, v3 (Kyle Simpson)
+- JavaScript: The Hard Parts, v2 (Will Sentance)
+- Functional JavaScript First Steps, v2 (Anjana Vakil)
+- JavaScript: From First Steps to Professional (Anjana Vakil)
+- Getting Started with JavaScript, v2 (Kyle Simpson)
+
+#### Full-Stack Development
+
+- Full Stack for Front-End Engineers, v3 (Jem Young)
+
+#### Testing & Code Quality
+
+- Enterprise UI Development: Testing & Code Quality (Steve Kinney)
+- Testing Fundamentals (Steve Kinney)
+
+#### CSS & Web Design
+
+- Professional CSS: Build a Website from Scratch (Kevin Powell)
+- Web Performance Fundamentals (Todd Gardner)
+- CSS Foundations (Emma Bostian)
+- Getting Started with CSS, v2 (Jen Kramer)
+
+#### Web Performance & Accessibility
+
+- Web Performance Fundamentals (Todd Gardner)
+- Website Accessibility, v3 (Jon Kuperman)
+
+#### Foundational Courses
+
+- Vanilla JS: You Might Not Need a Framework (Maximiliano Firtman)
+- Professional Learning Path (Frontend Masters)
+- Beginner Learning Path (Frontend Masters)
+- Complete Intro to Web Dev, v3 (Brian Holt)
+- Web Development Bootcamp (Frontend Masters)
+
+#### freeCodeCamp Certifications
+
+- Responsive Web Design
+- JavaScript Algorithms and Data Structures
+
+---
+
+## 🛠️ Technical Skills
+
+### Frontend Technologies
+
+- **Languages:** HTML, CSS, JavaScript, TypeScript
+- **Frameworks & Libraries:** React, Next.js
+- **Styling:** Tailwind CSS, CSS
+- **Build Tools:** Vite
+
+### Development Tools
+
+- **Version Control:** Git, GitHub
+- **Package Managers:** npm
+- **Code Editors:** VSCode
+- **Testing:** Vitest, Playwright
+- **Code Quality:** ESLint, Prettier, lint-staged
+
+### Architectural Concepts
+
+- Component-based Architecture
+- Server-Side Rendering (SSR)
+- Static Site Generation (SSG)
+- React Server Components
+- Server Actions
+- Responsive Design
+- Accessibility
+
+---
+
+## 📊 Key Competencies
+
+- ✅ Building scalable, maintainable React applications
+- ✅ Full-stack web development with modern tooling
+- ✅ Performance optimization and Core Web Vitals
+- ✅ Web accessibility and inclusive design
+- ✅ Type-safe development with TypeScript
+- ✅ Automated testing and code quality practices
+- ✅ Server-side rendering and static generation
+- ✅ State management at scale
+- ✅ Component design and UI/UX principles
+- ✅ Deployment
+
+---
+
+## 🔗 Connect With Me
+
+I'm ready to collaborate and build amazing digital experiences. Let's connect!
+
+- **📧 Email:** [antoniopolonijr@gmail.com](mailto:antoniopolonijr@gmail.com)
+- **💼 LinkedIn:** [Antonio Poloni](https://www.linkedin.com/in/antonio-br%C3%A1s-poloni-j%C3%BAnior-27148390/)
+- **💻 GitHub:** [@antoniopolonijr](https://github.com/antoniopolonijr)
+- **📄 Resume:** [View My Resume](https://docs.google.com/document/d/1KTaGHp-HwSyNxRPeFZgpH05WgoANplVBxgPvs-kutBQ/edit?usp=sharing)
